@@ -1,0 +1,201 @@
+usuario_id,nombre,edad,pais,tiempo_sesion_min,estado,suscripcion,clicks,compras,segmento_clicks,segmento_compras
+1,Paula,51,Colombia,118,activo,free,293,2,Muy activo,Comprador Ocasional
+2,Daniel,53,Colombia,180,inactivo,premium,163,1,Activo,Comprador Ocasional
+3,Santiago,45,Ecuador,31,activo,premium,63,0,Medio,No comprador
+4,Juan,23,Argentina,182,inactivo,free,198,1,Activo,Comprador Ocasional
+5,Paula,39,Mexico,103,inactivo,free,52,0,Medio,No comprador
+6,Andrea,31,Mexico,51,inactivo,free,215,4,Muy activo,Comprador Frecuente
+7,Mónica,41,Chile,23,inactivo,premium,202,0,Muy activo,No comprador
+8,Tomás,28,Colombia,122,inactivo,free,217,5,Muy activo,Comprador Frecuente
+9,Mateo,30,Mexico,147,inactivo,premium,154,4,Activo,Comprador Frecuente
+10,Julián,47,Peru,154,inactivo,premium,53,2,Medio,Comprador Ocasional
+11,Julián,50,Ecuador,107,activo,free,196,0,Activo,No comprador
+12,María,23,Ecuador,104,inactivo,free,250,5,Muy activo,Comprador Frecuente
+13,Juan,44,Mexico,17,inactivo,free,284,4,Muy activo,Comprador Frecuente
+14,Luis,20,Chile,178,inactivo,premium,200,5,Muy activo,Comprador Frecuente
+15,Felipe,39,Mexico,56,activo,free,45,4,Bajo,Comprador Frecuente
+16,Santiago,59,Argentina,155,activo,free,86,3,Medio,Comprador Frecuente
+17,Andrés,20,Mexico,58,inactivo,free,299,3,Muy activo,Comprador Frecuente
+18,Isabella,37,Colombia,123,inactivo,free,28,3,Bajo,Comprador Frecuente
+19,Julián,29,Chile,97,activo,free,193,2,Activo,Comprador Ocasional
+20,Diego,35,Colombia,68,inactivo,premium,129,5,Activo,Comprador Frecuente
+21,Paula,30,Argentina,185,inactivo,premium,271,0,Muy activo,No comprador
+22,Tomás,30,Ecuador,65,inactivo,premium,178,0,Activo,No comprador
+23,Valentina,54,Ecuador,39,activo,premium,23,1,Bajo,Comprador Ocasional
+24,Santiago,55,Chile,151,activo,free,201,4,Muy activo,Comprador Frecuente
+25,Diego,39,Chile,114,inactivo,premium,250,4,Muy activo,Comprador Frecuente
+26,Daniel,47,Mexico,163,inactivo,free,80,2,Medio,Comprador Ocasional
+27,Mateo,27,Peru,200,inactivo,free,106,1,Activo,Comprador Ocasional
+28,Tomás,29,Colombia,76,inactivo,premium,47,2,Bajo,Comprador Ocasional
+29,Ana,41,Peru,108,activo,premium,20,1,Bajo,Comprador Ocasional
+30,Luis,26,Ecuador,77,inactivo,free,180,5,Activo,Comprador Frecuente
+31,Sofía,57,Chile,135,inactivo,free,278,5,Muy activo,Comprador Frecuente
+32,Ana,39,Chile,71,activo,premium,129,1,Activo,Comprador Ocasional
+33,Julián,22,Ecuador,79,activo,free,224,0,Muy activo,No comprador
+34,Daniel,37,Mexico,141,activo,premium,75,0,Medio,No comprador
+35,Manuela,51,Ecuador,197,activo,free,51,5,Medio,Comprador Frecuente
+36,Mónica,24,Mexico,79,activo,premium,250,5,Muy activo,Comprador Frecuente
+37,Camila,60,Mexico,41,activo,premium,58,3,Medio,Comprador Frecuente
+38,Luis,36,Chile,69,activo,free,197,4,Activo,Comprador Frecuente
+39,Mónica,21,Peru,113,inactivo,premium,224,2,Muy activo,Comprador Ocasional
+40,Daniel,27,Argentina,19,activo,free,204,0,Muy activo,No comprador
+41,Daniel,29,Argentina,113,inactivo,free,23,0,Bajo,No comprador
+42,Julián,33,Colombia,109,activo,free,259,2,Muy activo,Comprador Ocasional
+43,Manuela,45,Ecuador,25,inactivo,premium,135,0,Activo,No comprador
+44,María,51,Ecuador,144,inactivo,premium,290,3,Muy activo,Comprador Frecuente
+45,Pedro,57,Colombia,105,activo,premium,169,2,Activo,Comprador Ocasional
+46,Sofía,26,Chile,124,activo,free,44,1,Bajo,Comprador Ocasional
+47,Natalia,55,Colombia,182,activo,premium,251,1,Muy activo,Comprador Ocasional
+48,María,43,Mexico,199,activo,free,177,1,Activo,Comprador Ocasional
+49,Manuela,27,Peru,181,activo,premium,12,1,Bajo,Comprador Ocasional
+50,Paula,38,Chile,54,activo,premium,21,3,Bajo,Comprador Frecuente
+51,Tomás,56,Argentina,193,inactivo,premium,108,3,Activo,Comprador Frecuente
+52,Camila,43,Colombia,157,inactivo,free,273,4,Muy activo,Comprador Frecuente
+53,Felipe,49,Mexico,69,inactivo,premium,243,3,Muy activo,Comprador Frecuente
+54,Natalia,51,Peru,155,inactivo,free,77,0,Medio,No comprador
+55,Gabriela,47,Ecuador,12,activo,premium,124,4,Activo,Comprador Frecuente
+56,Isabella,22,Peru,48,inactivo,premium,86,5,Medio,Comprador Frecuente
+57,Santiago,44,Peru,37,activo,free,32,0,Bajo,No comprador
+58,Laura,19,Peru,147,inactivo,premium,75,4,Medio,Comprador Frecuente
+59,Felipe,33,Colombia,36,activo,premium,66,4,Medio,Comprador Frecuente
+60,Ana,60,Mexico,73,inactivo,free,299,1,Muy activo,Comprador Ocasional
+61,Sofía,48,Colombia,179,activo,free,254,3,Muy activo,Comprador Frecuente
+62,Sebastián,60,Colombia,25,activo,free,159,3,Activo,Comprador Frecuente
+63,Daniel,37,Peru,8,activo,premium,21,0,Bajo,No comprador
+64,Mateo,57,Peru,77,inactivo,free,209,1,Muy activo,Comprador Ocasional
+65,Esteban,44,Mexico,45,activo,premium,150,2,Activo,Comprador Ocasional
+66,Felipe,54,Chile,97,inactivo,free,27,0,Bajo,No comprador
+67,Felipe,39,Argentina,191,inactivo,free,139,4,Activo,Comprador Frecuente
+68,Juan,39,Ecuador,183,activo,premium,41,3,Bajo,Comprador Frecuente
+69,Esteban,32,Colombia,20,activo,premium,11,3,Bajo,Comprador Frecuente
+70,Luis,57,Colombia,38,inactivo,free,170,2,Activo,Comprador Ocasional
+71,Gabriela,24,Argentina,56,inactivo,premium,274,1,Muy activo,Comprador Ocasional
+72,Valentina,42,Argentina,111,activo,premium,257,0,Muy activo,No comprador
+73,Laura,22,Ecuador,198,activo,premium,143,3,Activo,Comprador Frecuente
+74,Juan,54,Peru,99,inactivo,free,166,1,Activo,Comprador Ocasional
+75,Tomás,39,Colombia,108,inactivo,premium,109,5,Activo,Comprador Frecuente
+76,Santiago,55,Mexico,128,activo,premium,171,4,Activo,Comprador Frecuente
+77,Juan,34,Mexico,135,inactivo,free,290,2,Muy activo,Comprador Ocasional
+78,Mónica,39,Mexico,176,activo,premium,53,2,Medio,Comprador Ocasional
+79,Daniel,42,Ecuador,47,inactivo,premium,170,4,Activo,Comprador Frecuente
+80,Luis,50,Peru,97,inactivo,premium,95,5,Medio,Comprador Frecuente
+81,Andrés,44,Colombia,181,activo,premium,272,1,Muy activo,Comprador Ocasional
+82,Carolina,57,Ecuador,154,activo,free,221,3,Muy activo,Comprador Frecuente
+83,Julián,42,Argentina,185,activo,free,129,0,Activo,No comprador
+84,Isabella,43,Ecuador,61,inactivo,free,91,5,Medio,Comprador Frecuente
+85,Andrés,43,Colombia,92,activo,free,174,1,Activo,Comprador Ocasional
+86,Sofía,35,Argentina,168,activo,premium,115,0,Activo,No comprador
+87,Camila,25,Chile,25,inactivo,premium,44,1,Bajo,Comprador Ocasional
+88,Tomás,38,Colombia,168,activo,free,54,2,Medio,Comprador Ocasional
+89,Luis,36,Argentina,93,activo,premium,46,2,Bajo,Comprador Ocasional
+90,Gabriela,40,Colombia,28,inactivo,free,43,3,Bajo,Comprador Frecuente
+91,Camila,42,Argentina,13,activo,premium,140,0,Activo,No comprador
+92,Luis,46,Peru,23,activo,free,75,4,Medio,Comprador Frecuente
+93,Gabriela,43,Peru,133,activo,free,114,0,Activo,No comprador
+94,Pedro,38,Argentina,118,inactivo,premium,75,1,Medio,Comprador Ocasional
+95,Esteban,38,Colombia,105,activo,premium,62,4,Medio,Comprador Frecuente
+96,Isabella,48,Peru,136,activo,premium,39,2,Bajo,Comprador Ocasional
+97,Carlos,55,Colombia,126,inactivo,premium,263,0,Muy activo,No comprador
+98,Isabella,33,Peru,141,inactivo,premium,158,0,Activo,No comprador
+99,Gabriela,41,Ecuador,16,inactivo,free,43,5,Bajo,Comprador Frecuente
+100,Andrés,40,Chile,136,activo,free,19,0,Bajo,No comprador
+101,Camila,47,Ecuador,52,inactivo,free,64,4,Medio,Comprador Frecuente
+102,Carlos,41,Peru,97,inactivo,free,237,2,Muy activo,Comprador Ocasional
+103,Lucía,36,Peru,92,inactivo,premium,13,2,Bajo,Comprador Ocasional
+104,Julián,54,Peru,199,inactivo,premium,193,0,Activo,No comprador
+105,Julián,59,Chile,119,activo,premium,269,5,Muy activo,Comprador Frecuente
+106,Manuela,26,Ecuador,90,inactivo,premium,99,3,Medio,Comprador Frecuente
+107,Felipe,36,Peru,132,inactivo,free,22,5,Bajo,Comprador Frecuente
+108,Valentina,18,Ecuador,129,activo,premium,137,3,Activo,Comprador Frecuente
+109,Luis,52,Colombia,22,activo,premium,251,0,Muy activo,No comprador
+110,Natalia,37,Argentina,6,inactivo,premium,108,2,Activo,Comprador Ocasional
+111,Gabriela,51,Colombia,171,inactivo,premium,275,0,Muy activo,No comprador
+112,Mateo,26,Peru,189,activo,free,175,5,Activo,Comprador Frecuente
+113,Santiago,45,Ecuador,79,activo,premium,111,0,Activo,No comprador
+114,Felipe,35,Argentina,116,activo,premium,161,3,Activo,Comprador Frecuente
+115,Mateo,22,Mexico,140,inactivo,free,135,4,Activo,Comprador Frecuente
+116,Luis,56,Chile,59,activo,free,83,2,Medio,Comprador Ocasional
+117,Natalia,26,Colombia,107,activo,free,52,3,Medio,Comprador Frecuente
+118,Luis,25,Peru,191,activo,premium,167,0,Activo,No comprador
+119,Ana,55,Colombia,119,inactivo,premium,228,2,Muy activo,Comprador Ocasional
+120,Sofía,51,Colombia,23,activo,premium,128,5,Activo,Comprador Frecuente
+121,Isabella,48,Peru,139,activo,free,147,1,Activo,Comprador Ocasional
+122,Diego,48,Chile,50,activo,free,226,4,Muy activo,Comprador Frecuente
+123,Sofía,41,Colombia,70,activo,free,180,2,Activo,Comprador Ocasional
+124,Diego,48,Chile,155,inactivo,premium,13,0,Bajo,No comprador
+125,Daniel,38,Mexico,148,activo,premium,147,0,Activo,No comprador
+126,Carolina,36,Mexico,135,inactivo,premium,141,2,Activo,Comprador Ocasional
+127,Daniel,33,Ecuador,72,inactivo,premium,90,0,Medio,No comprador
+128,Juan,39,Colombia,198,inactivo,free,164,1,Activo,Comprador Ocasional
+129,Paula,47,Argentina,146,inactivo,premium,263,4,Muy activo,Comprador Frecuente
+130,Carlos,46,Mexico,11,activo,premium,115,4,Activo,Comprador Frecuente
+131,Pedro,34,Chile,80,inactivo,free,233,3,Muy activo,Comprador Frecuente
+132,Pedro,55,Mexico,6,inactivo,premium,163,2,Activo,Comprador Ocasional
+133,Laura,38,Colombia,157,activo,free,41,3,Bajo,Comprador Frecuente
+134,Paula,21,Mexico,36,inactivo,free,30,2,Bajo,Comprador Ocasional
+135,Tomás,44,Chile,76,activo,free,14,4,Bajo,Comprador Frecuente
+136,Valentina,32,Colombia,39,activo,premium,284,3,Muy activo,Comprador Frecuente
+137,Sebastián,53,Mexico,23,inactivo,free,87,1,Medio,Comprador Ocasional
+138,Santiago,52,Ecuador,175,activo,free,16,1,Bajo,Comprador Ocasional
+139,Esteban,28,Chile,175,activo,free,105,0,Activo,No comprador
+140,Valentina,57,Argentina,153,activo,free,91,1,Medio,Comprador Ocasional
+141,Daniel,39,Ecuador,126,activo,free,281,2,Muy activo,Comprador Ocasional
+142,Paula,38,Argentina,179,activo,premium,135,5,Activo,Comprador Frecuente
+143,Mónica,38,Peru,151,activo,free,203,3,Muy activo,Comprador Frecuente
+144,Juan,23,Argentina,5,activo,premium,107,2,Activo,Comprador Ocasional
+145,Pedro,53,Mexico,172,activo,free,123,2,Activo,Comprador Ocasional
+146,Andrés,31,Colombia,175,activo,premium,106,1,Activo,Comprador Ocasional
+147,Lucía,48,Peru,173,inactivo,premium,271,3,Muy activo,Comprador Frecuente
+148,Tomás,59,Mexico,12,inactivo,premium,154,4,Activo,Comprador Frecuente
+149,Sofía,56,Argentina,64,activo,free,270,1,Muy activo,Comprador Ocasional
+150,Carolina,33,Colombia,10,activo,premium,74,4,Medio,Comprador Frecuente
+151,Sofía,35,Mexico,155,activo,free,214,0,Muy activo,No comprador
+152,Juan,45,Colombia,147,activo,premium,91,5,Medio,Comprador Frecuente
+153,Mateo,25,Mexico,75,activo,free,151,3,Activo,Comprador Frecuente
+154,Manuela,52,Peru,43,inactivo,premium,179,5,Activo,Comprador Frecuente
+155,Natalia,48,Mexico,181,activo,free,141,5,Activo,Comprador Frecuente
+156,Isabella,40,Chile,127,inactivo,premium,207,4,Muy activo,Comprador Frecuente
+157,María,30,Chile,115,inactivo,free,249,3,Muy activo,Comprador Frecuente
+158,Ana,20,Mexico,193,activo,premium,278,3,Muy activo,Comprador Frecuente
+159,Mateo,44,Argentina,131,inactivo,free,176,3,Activo,Comprador Frecuente
+160,Paula,57,Peru,146,activo,premium,281,5,Muy activo,Comprador Frecuente
+161,Juan,45,Argentina,189,activo,free,12,4,Bajo,Comprador Frecuente
+162,Gabriela,44,Ecuador,120,activo,premium,27,2,Bajo,Comprador Ocasional
+163,Carlos,54,Peru,69,activo,premium,206,2,Muy activo,Comprador Ocasional
+164,Valentina,59,Ecuador,39,activo,premium,231,0,Muy activo,No comprador
+165,Natalia,31,Argentina,105,activo,premium,194,2,Activo,Comprador Ocasional
+166,Sebastián,42,Ecuador,107,inactivo,free,27,3,Bajo,Comprador Frecuente
+167,Sebastián,27,Mexico,57,activo,free,97,1,Medio,Comprador Ocasional
+168,María,55,Argentina,78,inactivo,premium,209,0,Muy activo,No comprador
+169,Esteban,28,Ecuador,132,activo,premium,234,4,Muy activo,Comprador Frecuente
+170,María,56,Ecuador,93,activo,free,23,1,Bajo,Comprador Ocasional
+171,Carlos,41,Mexico,55,activo,free,299,3,Muy activo,Comprador Frecuente
+172,Carolina,58,Peru,33,inactivo,premium,246,1,Muy activo,Comprador Ocasional
+173,Laura,30,Argentina,172,inactivo,free,21,2,Bajo,Comprador Ocasional
+174,Sofía,24,Peru,44,inactivo,premium,87,2,Medio,Comprador Ocasional
+175,Ana,45,Chile,190,inactivo,premium,220,1,Muy activo,Comprador Ocasional
+176,Camila,37,Colombia,168,inactivo,free,50,4,Medio,Comprador Frecuente
+177,Manuela,47,Mexico,180,inactivo,free,134,2,Activo,Comprador Ocasional
+178,Santiago,21,Mexico,98,inactivo,premium,22,5,Bajo,Comprador Frecuente
+179,Manuela,49,Colombia,189,activo,free,217,1,Muy activo,Comprador Ocasional
+180,Lucía,19,Peru,42,activo,premium,33,4,Bajo,Comprador Frecuente
+181,Andrea,29,Argentina,176,inactivo,premium,120,4,Activo,Comprador Frecuente
+182,Carolina,20,Argentina,108,activo,free,118,0,Activo,No comprador
+183,Mateo,47,Argentina,180,inactivo,free,288,1,Muy activo,Comprador Ocasional
+184,Juan,31,Argentina,76,inactivo,premium,163,0,Activo,No comprador
+185,Mateo,24,Peru,25,inactivo,premium,123,3,Activo,Comprador Frecuente
+186,Esteban,25,Colombia,11,activo,free,128,2,Activo,Comprador Ocasional
+187,Lucía,57,Mexico,138,inactivo,premium,275,1,Muy activo,Comprador Ocasional
+188,Andrés,41,Colombia,127,activo,free,291,1,Muy activo,Comprador Ocasional
+189,Santiago,60,Mexico,128,inactivo,premium,31,0,Bajo,No comprador
+190,Daniel,60,Peru,124,activo,premium,140,4,Activo,Comprador Frecuente
+191,Sebastián,43,Peru,158,activo,premium,242,2,Muy activo,Comprador Ocasional
+192,Gabriela,28,Mexico,66,activo,premium,208,3,Muy activo,Comprador Frecuente
+193,Natalia,28,Chile,194,activo,premium,132,5,Activo,Comprador Frecuente
+194,Mateo,56,Chile,59,inactivo,premium,280,2,Muy activo,Comprador Ocasional
+195,Esteban,52,Peru,168,inactivo,free,169,0,Activo,No comprador
+196,Valentina,19,Chile,80,inactivo,free,166,4,Activo,Comprador Frecuente
+197,Lucía,38,Mexico,94,activo,premium,233,4,Muy activo,Comprador Frecuente
+198,Mónica,54,Chile,154,inactivo,free,141,2,Activo,Comprador Ocasional
+199,Carolina,36,Colombia,55,activo,premium,125,1,Activo,Comprador Ocasional
+200,Paula,44,Argentina,141,activo,free,179,1,Activo,Comprador Ocasional

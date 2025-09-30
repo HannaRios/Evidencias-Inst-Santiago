@@ -1,0 +1,5 @@
+"usuarios id","nombre","edad","pais","tiempo de sesion","estado"
+1, "Anna",23,"Colombia",40,"activo"
+2, "Juan",30,"Mexico",10,"Inactivo"
+3, "Sofia",28,"Chile",25,"activo"
+4, "Pedro",19,"Perú",50,"activo"
